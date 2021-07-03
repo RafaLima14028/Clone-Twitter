@@ -5,8 +5,6 @@ UI Clone - Twitter Responsive
 <p align="center">Responsive Twitter UI Clone (partial) for study purposes.</p>
 <p align="center">Deployed <a href="https://60e0acb553caabb07f513616--vibrant-franklin-ef3a0f.netlify.app/">here</a>.</p>
 
-<hr>
-
 ## Techs
 
 - [x] React.js
